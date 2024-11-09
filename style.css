@@ -1,0 +1,33 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  padding-bottom: 1000px;
+  background-image: url("propertypng.png");
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+}
+
+.links {
+  display: flex;
+  gap: 40px;
+}
+
+.contact {
+  display: flex;
+  gap: 20px;
+}
+
+.contact button {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  border-radius: 12px;
+}
+
+.firstImage {
+  margin-top: 10px;
+}
